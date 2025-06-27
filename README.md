@@ -1,7 +1,9 @@
 Introduction
+
 Spheroid is an Arbitrum orbit based L2 blockchain solution tailored specifically for commerce and aims to enhance the security, transparency and efficiency of commercial transactions by providing a dedicated infrastructure for merchants and consumers. Spheroid addresses key challenges in the commerce sector, including security vulnerabilities, regulatory compliance and user experience complexities
 
 Core features
+
 KYC integration: Mandatory KYC for all users and merchants to ensure trust and regulatory compliance on the platform and to prevent fraud and illicit activities
 
 Merchant registry: Merchants can register on a global registry, ensuring a standardized and transparent onboarding process for all users and merchants and enabling users to verify the authenticity of merchants before making transactions with them
